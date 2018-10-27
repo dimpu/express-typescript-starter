@@ -1,7 +1,7 @@
-import express from 'express';
+import { Application } from 'express';
 import homeRoute from './routes/home';
 
-export const routerConfig = (app: express.Application) => {
+export const routerConfig = (app: Application) => {
   app.use('/', homeRoute);
 };
 

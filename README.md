@@ -13,7 +13,6 @@ I will try to keep this as up-to-date as possible, but community contributions a
 # Pre-reqs
 To build and run this app locally you will need a few things:
 - Install [Node.js](https://nodejs.org/en/)
-- Install [MongoDB](https://docs.mongodb.com/manual/installation/)
 - Install [VS Code](https://code.visualstudio.com/)
 
 # Getting started
